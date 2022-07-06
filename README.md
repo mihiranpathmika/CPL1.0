@@ -1,7 +1,7 @@
 # CPL1.0
 Auxiliary codes for fault prediction and prognosis of Tennessee Eastman process using a hybrid model 
 -------------------------------------------------------------------------------------------------------
-To do a trial of CPL1.0, please installl HMM toolbox by Kevin Murphy. Follow the instructions given in https://www.cs.ubc.ca/~murphyk/Software/HMM/hmm_usage.html.
+To do a trial of CPL1.0, please installl HMM toolbox by Kevin Murphy. Follow the instructions given in https://www.cs.ubc.ca/~murphyk/Software/HMM/hmm.html.
 Once the HMM tool box is active, load the datafile named 'CPL1.0_Complete_System_for fault prediction and prognosis'.
 This contains the training data files, testing data files, and all the parameters trained to predict the fault A in Tennessee Estman process.
 Please refer to (Don and Khan, 2019) and (Galagedarage Don aand Khan, 2019).
